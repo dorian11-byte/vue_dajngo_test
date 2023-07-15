@@ -58,3 +58,12 @@ When the database has been created run the command seed_db to populate with init
 ```
 python manage.py seed_db
 ```
+
+To Run the Boostrap Icons and SweetAlert2 of the Project you need to run the following commands
+```
+npm i bootstrap-icons
+```
+
+```
+npm i sweetalert2
+```
